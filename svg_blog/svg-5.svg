@@ -1,0 +1,14 @@
+<?xml version="1.1" standalone="no"?>
+<svg width="200px" height="200px" version="1.1" xmlns="http://www.w3.org/2000/svg">
+
+  <path d="M10 10 L 20 100" stroke="black" fill="transparent"/>
+  <path d="M20 100 V 5 " stroke="green" fill="transparent"/>
+  <path d="M20 5 H 60 " stroke="orange" fill="transparent"/>
+  <path d="M60 5 C 30 20, 30 60, 65 100 " stroke="purple" fill="transparent"/>
+  <path d="M65 100 S 100 140, 20 160 " stroke="red" fill="transparent"/>
+  <path d="M20 160 Q 70 180, 80 160 " stroke="blue" fill="transparent"/>
+  <path d="M80 160 T 130 170 " stroke="yellow" fill="transparent"/>
+  <path d="M130 170 A 30 60 0 0 0 170 50 " stroke="brown" fill="transparent"/>
+  <path d="M10 10 L170 50  " stroke="pink" fill="transparent"/>
+  
+</svg>
