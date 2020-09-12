@@ -1,0 +1,92 @@
+C:\Users\pc\Desktop\Kalman\Kalman\bin\Debug\Kalman.exe.config
+C:\Users\pc\Desktop\Kalman\Kalman\bin\Debug\Kalman.exe
+C:\Users\pc\Desktop\Kalman\Kalman\bin\Debug\Kalman.pdb
+C:\Users\pc\Desktop\Kalman\Kalman\obj\Debug\Kalman.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Kalman\Kalman\obj\Debug\Kalman.Form1.resources
+C:\Users\pc\Desktop\Kalman\Kalman\obj\Debug\Kalman.Properties.Resources.resources
+C:\Users\pc\Desktop\Kalman\Kalman\obj\Debug\Kalman.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Kalman\Kalman\obj\Debug\Kalman.exe
+C:\Users\pc\Desktop\Kalman\Kalman\obj\Debug\Kalman.pdb
+C:\Users\pc\Desktop\Kalman - 副本\Kalman\bin\Debug\Kalman.exe.config
+C:\Users\pc\Desktop\Kalman - 副本\Kalman\obj\Debug\Kalman.exe
+C:\Users\pc\Desktop\Kalman - 副本\Kalman\obj\Debug\Kalman.pdb
+C:\Users\pc\Desktop\Kalman - 副本\Kalman\obj\Debug\Kalman.Form1.resources
+C:\Users\pc\Desktop\Kalman - 副本\Kalman\obj\Debug\Kalman.Properties.Resources.resources
+C:\Users\pc\Desktop\Kalman - 副本\Kalman\obj\Debug\Kalman.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Kalman - 副本\Kalman\bin\Debug\Kalman.exe
+C:\Users\pc\Desktop\Kalman - 副本\Kalman\bin\Debug\Kalman.pdb
+G:\Kalman - 副本\Kalman\bin\Debug\Kalman.exe.config
+G:\Kalman - 副本\Kalman\obj\Debug\Kalman.exe
+G:\Kalman - 副本\Kalman\obj\Debug\Kalman.pdb
+G:\Kalman - 副本\Kalman\bin\Debug\Kalman.exe
+G:\Kalman - 副本\Kalman\bin\Debug\Kalman.pdb
+G:\Kalman - 副本\Kalman\obj\Debug\Kalman.csprojResolveAssemblyReference.cache
+G:\Kalman - 副本\Kalman\obj\Debug\Kalman.Form1.resources
+G:\Kalman - 副本\Kalman\obj\Debug\Kalman.Properties.Resources.resources
+G:\Kalman - 副本\Kalman\obj\Debug\Kalman.csproj.GenerateResource.Cache
+C:\Users\84565\Desktop\Kalman - 副本\Kalman\bin\Debug\Kalman.exe.config
+C:\Users\84565\Desktop\Kalman - 副本\Kalman\obj\Debug\Kalman.exe
+C:\Users\84565\Desktop\Kalman - 副本\Kalman\obj\Debug\Kalman.pdb
+C:\Users\84565\Desktop\Kalman - 副本\Kalman\bin\Debug\Kalman.exe
+C:\Users\84565\Desktop\Kalman - 副本\Kalman\bin\Debug\Kalman.pdb
+C:\Users\84565\Desktop\Kalman - 副本\Kalman\obj\Debug\Kalman.csprojResolveAssemblyReference.cache
+C:\Users\84565\Desktop\Kalman - 副本\Kalman\obj\Debug\Kalman.Form1.resources
+C:\Users\84565\Desktop\Kalman - 副本\Kalman\obj\Debug\Kalman.Properties.Resources.resources
+C:\Users\84565\Desktop\Kalman - 副本\Kalman\obj\Debug\Kalman.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Kalman - 副本\Kalman\obj\Debug\Kalman.csprojResolveAssemblyReference.cache
+C:\Users\yuan\Desktop\Kalman 2020\Kalman\obj\Debug\Kalman.csprojResolveAssemblyReference.cache
+C:\Users\yuan\Desktop\Kalman 2020\Kalman\obj\Debug\Kalman.Form1.resources
+C:\Users\yuan\Desktop\Kalman 2020\Kalman\obj\Debug\Kalman.Properties.Resources.resources
+C:\Users\yuan\Desktop\Kalman 2020\Kalman\obj\Debug\Kalman.csproj.GenerateResource.Cache
+C:\Users\yuan\Desktop\Kalman 2020\Kalman\obj\Debug\Kalman.exe
+C:\Users\yuan\Desktop\Kalman 2020\Kalman\obj\Debug\Kalman.pdb
+C:\Users\yuan\Desktop\Kalman 2020\Kalman\bin\Debug\Kalman.exe.config
+C:\Users\yuan\Desktop\Kalman 2020\Kalman\bin\Debug\Kalman.exe
+C:\Users\yuan\Desktop\Kalman 2020\Kalman\bin\Debug\Kalman.pdb
+C:\Users\yuan\Desktop\Kalman 2020 - 副本\Kalman\bin\Debug\Kalman.exe.config
+C:\Users\yuan\Desktop\Kalman 2020 - 副本\Kalman\obj\Debug\Kalman.exe
+C:\Users\yuan\Desktop\Kalman 2020 - 副本\Kalman\obj\Debug\Kalman.pdb
+C:\Users\yuan\Desktop\Kalman 2020 - 副本\Kalman\bin\Debug\Kalman.exe
+C:\Users\yuan\Desktop\Kalman 2020 - 副本\Kalman\bin\Debug\Kalman.pdb
+C:\Users\yuan\Desktop\Kalman 2020 - 副本\Kalman\obj\Debug\Kalman.csprojResolveAssemblyReference.cache
+C:\Users\yuan\Desktop\Kalman 2020 - 副本\Kalman\obj\Debug\Kalman.Form1.resources
+C:\Users\yuan\Desktop\Kalman 2020 - 副本\Kalman\obj\Debug\Kalman.Properties.Resources.resources
+C:\Users\yuan\Desktop\Kalman 2020 - 副本\Kalman\obj\Debug\Kalman.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Kalman 2020-8-31\Kalman\bin\Debug\Kalman.exe.config
+C:\Users\Administrator\Desktop\Kalman 2020-8-31\Kalman\obj\Debug\Kalman.exe
+C:\Users\Administrator\Desktop\Kalman 2020-8-31\Kalman\obj\Debug\Kalman.pdb
+C:\Users\Administrator\Desktop\Kalman 2020-8-31\Kalman\bin\Debug\Kalman.exe
+C:\Users\Administrator\Desktop\Kalman 2020-8-31\Kalman\bin\Debug\Kalman.pdb
+C:\Users\Administrator\Desktop\Kalman 2020-8-31\Kalman\obj\Debug\Kalman.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Kalman 2020-8-31\Kalman\obj\Debug\Kalman.Form1.resources
+C:\Users\Administrator\Desktop\Kalman 2020-8-31\Kalman\obj\Debug\Kalman.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Kalman 2020-8-31\Kalman\obj\Debug\Kalman.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Kalman 2020-09-02\Kalman\bin\Debug\Kalman.exe.config
+C:\Users\Administrator\Desktop\Kalman 2020-09-02\Kalman\obj\Debug\Kalman.exe
+C:\Users\Administrator\Desktop\Kalman 2020-09-02\Kalman\obj\Debug\Kalman.pdb
+C:\Users\Administrator\Desktop\Kalman 2020-09-02\Kalman\bin\Debug\Kalman.exe
+C:\Users\Administrator\Desktop\Kalman 2020-09-02\Kalman\bin\Debug\Kalman.pdb
+C:\Users\Administrator\Desktop\Kalman 2020-09-02\Kalman\obj\Debug\Kalman.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Kalman 2020-09-02\Kalman\obj\Debug\Kalman.Form1.resources
+C:\Users\Administrator\Desktop\Kalman 2020-09-02\Kalman\obj\Debug\Kalman.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Kalman 2020-09-02\Kalman\obj\Debug\Kalman.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Kalman 2020-09-02\Kalman\bin\Debug\Kalman.exe.config
+C:\Users\pc\Desktop\Kalman 2020-09-02\Kalman\obj\Debug\Kalman.exe
+C:\Users\pc\Desktop\Kalman 2020-09-02\Kalman\obj\Debug\Kalman.pdb
+C:\Users\pc\Desktop\Kalman 2020-09-02\Kalman\bin\Debug\Kalman.exe
+C:\Users\pc\Desktop\Kalman 2020-09-02\Kalman\bin\Debug\Kalman.pdb
+C:\Users\pc\Desktop\Kalman 2020-09-02\Kalman\obj\Debug\Kalman.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Kalman 2020-09-02\Kalman\obj\Debug\Kalman.Form1.resources
+C:\Users\pc\Desktop\Kalman 2020-09-02\Kalman\obj\Debug\Kalman.Properties.Resources.resources
+C:\Users\pc\Desktop\Kalman 2020-09-02\Kalman\obj\Debug\Kalman.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Kalman 2020-09-02 -yuany\Kalman\bin\Debug\Kalman.exe.config
+C:\Users\pc\Desktop\Kalman 2020-09-02 -yuany\Kalman\obj\Debug\Kalman.exe
+C:\Users\pc\Desktop\Kalman 2020-09-02 -yuany\Kalman\obj\Debug\Kalman.pdb
+C:\Users\pc\Desktop\Kalman 2020-09-02 -yuany\Kalman\bin\Debug\Kalman.exe
+C:\Users\pc\Desktop\Kalman 2020-09-02 -yuany\Kalman\bin\Debug\Kalman.pdb
+C:\Users\pc\Desktop\Kalman 2020-09-02 -yuany\Kalman\obj\Debug\Kalman.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Kalman 2020-09-02 -yuany\Kalman\obj\Debug\Kalman.Form1.resources
+C:\Users\pc\Desktop\Kalman 2020-09-02 -yuany\Kalman\obj\Debug\Kalman.Properties.Resources.resources
+C:\Users\pc\Desktop\Kalman 2020-09-02 -yuany\Kalman\obj\Debug\Kalman.csproj.GenerateResource.Cache
+d:\Kalman\obj\Debug\Kalman.exe
+d:\Kalman\obj\Debug\Kalman.pdb
