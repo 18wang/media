@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Fighter\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Fighter\\.nuget\\packages"
+    ]
+  }
+}
