@@ -1,0 +1,80 @@
+<svg viewBox="0 0 231 243" width="231" xmlns="http://www.w3.org/2000/svg" height="243" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <style type="text/css"><![CDATA[
+.st2 {fill:#000000;font-family:Arial;font-size:10pt}
+.st1 {fill:#000000;font-family:Arial;font-size:8pt}
+.st4 {fill:#000000}
+.st3 {fill:#1f6391;font-family:Arial;font-size:10pt}
+.st5 {fill:#ff0000;font-family:Comic Sans MS;font-size:8pt}
+]]></style>
+    <defs/>
+    <g transform="translate(4,4)">
+        <g id="shape1" transform="matrix(0.87,0.5,-0.5,0.87,66.9,89.3)">
+            <path d="M21.6,10.8C21.6,16.8,16.8,21.6,10.8,21.6C4.8,21.6,0,16.8,0,10.8C0,4.8,4.8,0,10.8,0C16.8,0,21.6,4.8,21.6,10.8z" fill="#ffffff"/>
+            <path d="M10.8,0C14.6,-0.5,18.3,.5,21.3,2.7M21.6,23.9C16.8,28.4,9.9,29.4,4.3,26.8M10.8,0C4.8,0,0,4.8,0,10.8C0,16.8,4.8,21.6,10.8,21.6C16.8,21.6,21.6,16.8,21.6,10.8C21.6,4.8,16.8,0,10.8,0z" stroke="#000000" fill="none"/>
+            <path d="M24.8,6.5L22.2,1.8L20.3,3.6L24.8,6.5" stroke="#000000" stroke-width="1" stroke-linecap="round" fill="#000000"/>
+            <path d="M0,23.9L3.6,27.9L5,25.7L0,23.9" stroke="#000000" stroke-width="1" stroke-linecap="round" fill="#000000"/>
+        </g>
+        <g id="shape2" transform="matrix(0.98,0.22,-0.22,0.98,70.8,104)">
+            <path d="M0,0L104.6,0" stroke="#7030a0" fill="none"/>
+            <path d="M104.6,-3L110.6,0L104.6,3L104.6,-3" stroke="#7030a0" stroke-width="1" stroke-linecap="round" fill="#7030a0"/>
+            <text class="st1" transform="matrix(0.98,-0.22,0.22,0.98,3.8,15.8)">
+                <tspan x="70.8" y="-6.2">F</tspan>
+            </text>
+        </g>
+        <g transform="translate(71.1,0)">
+            <g id="shape3">
+                <path d="M0,10.4L0,103.9L141.6,103.9" stroke="#000000" fill="none"/>
+                <path d="M0,0L-2.6,10.4L2.6,10.4L0,0" stroke="#000000" stroke-width="1" stroke-linecap="round" fill="#000000"/>
+                <path d="M152,103.9L141.6,101.3L141.6,106.5L152,103.9" stroke="#000000" stroke-width="1" stroke-linecap="round" fill="#000000"/>
+            </g>
+            <text class="st2">
+                <tspan x="140.1" y="121.5">X</tspan>
+            </text>
+            <text class="st2">
+                <tspan x="-17.9" y="15">Y</tspan>
+            </text>
+        </g>
+        <g id="shape4" transform="matrix(-0.77,-0.64,0.64,-0.77,-0,188.7)">
+            <path d="M0,10.4L0,111.5" stroke="#000000" fill="none"/>
+            <path d="M0,0L-2.6,10.4L2.6,10.4L0,0" stroke="#000000" stroke-width="1" stroke-linecap="round" fill="#000000"/>
+        </g>
+        <g id="shape5" transform="translate(8.84,168)">
+            <text class="st3">
+                <tspan x="4" y="22.8" class="st4">Z</tspan>
+            </text>
+        </g>
+        <g id="shape6" transform="matrix(0.83,-0.55,0.55,0.83,70.8,104)">
+            <path d="M0,0L106.6,0" stroke="#1bbc9d" fill="none"/>
+            <path d="M106.6,-3L112.6,0L106.6,3L106.6,-3" stroke="#1bbc9d" stroke-width="1" stroke-linecap="round" fill="#1bbc9d"/>
+            <text class="st1" transform="matrix(0.83,0.55,-0.55,0.83,3.8,-32.7)">
+                <tspan x="50.3" y="-7">F1</tspan>
+            </text>
+        </g>
+        <g id="shape7" transform="matrix(0.16,0.99,-0.99,0.16,70.8,104)">
+            <path d="M0,0L82.1,0" stroke="#ee7c31" fill="none"/>
+            <path d="M82.1,-3L88.1,0L82.1,3L82.1,-3" stroke="#ee7c31" stroke-width="1" stroke-linecap="round" fill="#ee7c31"/>
+            <text class="st1" transform="matrix(0.16,-0.99,0.99,0.16,46.9,35.1)">
+                <tspan x="38.1" y="-7">F2</tspan>
+            </text>
+        </g>
+        <g id="shape8" transform="matrix(0.83,-0.55,0.55,0.83,84.8,190)">
+            <path d="M0,0L106.6,0" stroke="#1bbc9d" stroke-dasharray="11,5" fill="none"/>
+            <path d="M106.6,-3L112.6,0L106.6,3L106.6,-3" stroke="#1bbc9d" stroke-width="1" stroke-linecap="round" fill="#1bbc9d"/>
+            <text class="st1" transform="matrix(0.83,0.55,-0.55,0.83,3.8,-32.7)">
+                <tspan x="50.3" y="-7">F1</tspan>
+            </text>
+        </g>
+        <g id="shape9" transform="translate(34.84,85)">
+            <text class="st5">
+                <tspan x="4" y="15">180°</tspan>
+            </text>
+        </g>
+        <path d="M0,1.9C0,.8,.8,0,1.9,0C2.9,0,3.7,.8,3.7,1.9C3.7,2.9,2.9,3.7,1.9,3.7C.8,3.7,0,2.9,0,1.9z" id="shape10" stroke="#d7091d" transform="translate(69.18,102.29)" fill="#d7091d"/>
+        <g id="shape11" transform="translate(27.84,199.5)">
+            <text class="st3">
+                <tspan x="4" y="14.8" class="st4">利用Rodrigues方法求解向量</tspan>
+                <tspan x="4" y="32.8" class="st4">F2到F1的旋转矩阵示意图</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
